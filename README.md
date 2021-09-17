@@ -14,4 +14,4 @@ block_0_adaptive_lambda_0_improve_rate.csv：
 A 104 * 100 matrix, corresponding to 100 iterations of 104 wells. The results of InterOpt without adaptive lambda and block iteration.
 
 block_1_adaptive_lambda_1_optimized_features.xlsx:
-A (104 * 8)  * 100 matrix, corresponding to 100 iterations of 104 wells with 8 trainable features. It includes the optimixed features of the 104 wells in the InterOpt.
+A (104 * 8)  * 100 matrix, corresponding to 100 iterations of 104 wells with 8 trainable features. It includes the optimixed features of the 104 wells in the InterOpt. All data is normalized.
